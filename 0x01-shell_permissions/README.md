@@ -26,3 +26,4 @@ Exercise 12: mkdir -m 751 dir_holberton Create a directory called dir_holberton 
 
 Exercise 13: chgrp holberton hello Change gorup owner to holberton for the file hello
 # holberton-system_engineering-devops
+#  Shell Scripting Permissions Exercises
