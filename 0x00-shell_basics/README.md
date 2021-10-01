@@ -12,13 +12,13 @@ Exercise 4: ls -la === list directory contents in long form, including hidden fi
 
 Exercise 5: ls -la Note: Are files inherently ordered?
 
-Exercise 6: mkdir /tmp/holberton Create a holberton directory inside the tmp directory
+Exercise 6: mkdir /tmp/my_first_directory Create a holberton directory inside the tmp directory
 
-Exercise 7: mv /tmp/betty /tmp/holberton/betty Move file betty, which is located inside the tmp directory, to the holberton directory, which is also located inside the tmp directory. This exercise required some dir traversing.
+Exercise 7: mv /tmp/betty /tmp/my_first_directory/betty Move file betty, which is located inside the tmp directory, to the holberton directory, which is also located inside the tmp directory. This exercise required some dir traversing.
 
-Exercise 8: rm /tmp/holberton/betty Remove file betty located in tmp/holberton directory.
+Exercise 8: rm /tmp/my_first_directory/betty Remove file betty located in tmp/holberton directory.
 
-Exercise 9: rmdir /tmp/holberton Remove directory holberton located in directory tmp.
+Exercise 9: rmdir /tmp/my_first_directory Remove directory holberton located in directory tmp.
 
 Exercise 10: cd - Change directory to the previous directory you were in.
 
